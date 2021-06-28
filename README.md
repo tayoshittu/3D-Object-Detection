@@ -49,3 +49,5 @@ steps on google colab available in 3D_Object_Detection.ipynb
 you can also run demo by 
 !python demo.py
 
+Please Refer to the project paper here
+https://github.com/tayoshittu/3D-Object-Detection/blob/main/Deep%20Learning%20Approach%20To%20RGB-D%20Object%20Detection.pdf
